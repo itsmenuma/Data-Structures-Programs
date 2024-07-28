@@ -47,3 +47,10 @@ This C program implements a Binary Search Tree (BST) with integer data. It provi
 This C program implements Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms for traversing a graph represented by an adjacency matrix. It determines the reachability of vertices from a given source and checks if the graph is connected. If connected, it outputs the spanning tree edges.
 <br>
 <br>
+10. Hashing Using Linear Probing
+<br>
+This C program implements a hash table to store and search employee records, including employee ID, name, and age. It uses a hash function to map employee IDs to indices in the table. The program handles collisions with linear probing and provides options to insert and search for records.
+<br>
+<br>
+<br>
+Feel free to contact numarahamath@gmail.com if you have any doubts
