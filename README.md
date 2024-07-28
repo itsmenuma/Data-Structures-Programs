@@ -42,3 +42,8 @@ This C program manages a doubly linked list of employee records, including SSN, 
 This C program implements a Binary Search Tree (BST) with integer data. It provides functions to insert nodes (insert), traverse the tree in Inorder, Preorder, and Postorder (inorder, preorder, postorder), and search for specific values (search). The user interacts via a menu-driven interface for these operations.
 <br>
 <br>
+9. Graph Traversals (BFS and DFS)
+<br>
+This C program implements Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms for traversing a graph represented by an adjacency matrix. It determines the reachability of vertices from a given source and checks if the graph is connected. If connected, it outputs the spanning tree edges.
+<br>
+<br>
