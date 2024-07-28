@@ -7,6 +7,7 @@ These are some of the Data Structure Programs I have learned to date in C progra
 1.Stacks Operation<br>
 This C program uses an array to implement a simple stack with a fixed size of 5. It includes functions to push elements onto the stack, pop elements from it, and display its contents. The main() function provides a menu-driven interface for performing these operations.
 <br>
+<br>
 2. Infix to Postfix Conversion using Stacks
 <br>
 This C program converts an infix expression to postfix notation using the Shunting Yard algorithm. It includes functions to handle operator precedence and stack operations. The infix_postfix function processes the input infix expression, utilizing a stack to manage operators and ensure correct precedence in the resulting postfix expression.
