@@ -22,9 +22,8 @@ This C program evaluates a postfix (reverse Polish notation) expression. It uses
 This C program implements a double-ended queue (deque) using a fixed-size array. It supports insertion at both front and rear (functions IF and IR), deletion from both front and rear (functions DF and DR), and displays the contents of the queue (Display). The program offers a menu-driven interface for these operations.
 <br>
 <br>
-
 5. Circular Queue
- <br>
+<br>
 This C program implements a circular queue using an array. It provides functions to insert elements (ir), delete elements from the front (df), and display the queue's contents. The queue operates in a circular manner, utilizing a fixed size of 5, with operations managed through front (f) and rear (r) pointers.
 <br>
 <br>
@@ -36,5 +35,10 @@ This C program implements a linked list to manage student records, including USN
 7. doubly Linked List on Employee Data
 <br>
 This C program manages a doubly linked list of employee records, including SSN, name, department, designation, salary, and phone number. It allows insertion at the front (IF) and rear (IR), deletion from the front (DF) and rear (DR), and displays the list's contents (disp). The user interacts via a menu-driven interface.
+<br>
+<br>
+8. Binary Search Tree Operations
+<br>
+This C program implements a Binary Search Tree (BST) with integer data. It provides functions to insert nodes (insert), traverse the tree in Inorder, Preorder, and Postorder (inorder, preorder, postorder), and search for specific values (search). The user interacts via a menu-driven interface for these operations.
 <br>
 <br>
