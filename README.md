@@ -4,7 +4,7 @@ These are some of the Data Structure Programs I have learned to date in C progra
 # Contents: -
 <br>This repository contains 10 programs: -
 <br>
-1. Stacks Operation<br>
+1.Stacks Operation<br>
 This C program uses an array to implement a simple stack with a fixed size of 5. It includes functions to push elements onto the stack, pop elements from it, and display its contents. The main() function provides a menu-driven interface for performing these operations.
 <br>
 <br>
@@ -31,5 +31,10 @@ This C program implements a circular queue using an array. It provides functions
 6. Singly Linked List Operation on Student Data
 <br>
 This C program implements a linked list to manage student records, including USN, name, branch, semester, and phone number. It allows insertion at the front (IF) and rear (IR), deletion from the front (DF) and rear (DR), and displays the list's contents (disp). The user interacts via a menu-driven interface.
+<br>
+<br>
+7. doubly Linked List on Employee Data
+<br>
+This C program manages a doubly linked list of employee records, including SSN, name, department, designation, salary, and phone number. It allows insertion at the front (IF) and rear (IR), deletion from the front (DF) and rear (DR), and displays the list's contents (disp). The user interacts via a menu-driven interface.
 <br>
 <br>
