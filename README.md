@@ -2,10 +2,9 @@
 These are some of the Data Structure Programs I have learned to date in C programming.
 <br>
 # Contents: -
-<br> This repository contains 10 programs: -
-
-1. Stacks Operation
-   <br>
+<br>This repository contains 10 programs: -
+<br>
+1. Stacks Operation<br>
 This C program uses an array to implement a simple stack with a fixed size of 5. It includes functions to push elements onto the stack, pop elements from it, and display its contents. The main() function provides a menu-driven interface for performing these operations.
 <br>
 <br>
